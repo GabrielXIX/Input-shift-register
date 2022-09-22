@@ -25,3 +25,9 @@ Este registro de desplazamiento capaz de transferir datos de forma Paralelo-seri
 #### Asignación de pines
 
 ![image](https://user-images.githubusercontent.com/65438145/190033149-8e9e0418-f9fd-4633-a2ec-519b9e5b69f3.png)
+
+### Aplicaciones de los registros de desplazamiento
+
+- Multiplicador serie
+- Conversión de formato paralelo a serie para transferencia de datos entre dispositivos
+- Utilizarlo como línea de retardo para entregar una señal que se retrasa con respecto a cuando se genera
