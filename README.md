@@ -31,3 +31,14 @@ Este registro de desplazamiento capaz de transferir datos de forma Paralelo-seri
 - Multiplicador serie
 - Conversión de formato paralelo a serie para transferencia de datos entre dispositivos
 - Utilizarlo como línea de retardo para entregar una señal que se retrasa con respecto a cuando se genera
+
+### Referencias
+- REGISTROS DE DESPLAZAMIENTO. Fundamentos de Sistemas Digitales. Recuperado de http://solano.orgfree.com/DISE%D1O%20DIGITAL%20CON%20VHDL/Registros.pdf
+- Unit Electronics. 74LS165 Registro de Desplazamiento SN74LS165N. Recuperado de https://uelectronics.com/producto/74ls165-registro-de-desplazamiento-sn74ls165n/#:~:text=El%2074LS165%20se%20puede%20conectar,de%20desplazamiento%20puedes%20verlos%20Aquí.
+- Registros de desplazamiento. Recuperado de https://personales.unican.es/manzanom/planantiguo/edigitali/REGG4.pdf
+- EcuRed. Registro de desplazamiento. Recuperado de https://www.ecured.cu/Registro_de_desplazamiento
+- SISO vs SIPO vs PISO vs PIPO-difference between SISO,SIPO,PISO,PIPO shift registers. (2012). Recuperado de https://www.rfwireless-world.com/Terminology/SISO-vs-SIPO-vs-PISO-vs-PIPO-shift-register-types.html
+- Sergio Noriega. (2009). Registros de Desplazamiento. Introducción a los Sistemas Lógicos y Digitales. Recuperado de https://catedra.ing.unlp.edu.ar/electrotecnia/islyd/apuntes/Tema%206%20Registros%20de%20Desplazamiento%202009.pdf
+- Kripkit. Registro de desplazamiento. Recuperado de https://kripkit.com/registro-de-desplazamiento/
+- Registro de desplazamiento. Recuperado de https://es.wikipedia.org/wiki/Registro_de_desplazamiento
+
